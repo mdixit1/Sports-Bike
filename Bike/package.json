@@ -1,0 +1,20 @@
+{
+  "name": "bike",
+  "version": "1.0.0",
+  "description": "The Project Of The Sports Bike Zone",
+  "main": "index.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"dscriptive\"",
+    "\"related\"",
+    "\"words\"]"
+  ],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/mdixit1/Sports-Bike"
+  },
+  "author": "Manish Kumar",
+  "license": "ISC"
+}
